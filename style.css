@@ -1,1 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: DarkSlateGrey;
+  color: LightGrey;
+  font-family: Arial;
+}
 
+header{
+  padding: 40px;
+}
+
+.title1{
+  padding: 10px;
+}
+
+.title2{
+  padding: 10px;
+}
